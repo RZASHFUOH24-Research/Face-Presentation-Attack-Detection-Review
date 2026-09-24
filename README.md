@@ -35,7 +35,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ---
-  ![image]([https://github.com/ZitongYu/DeepFAS/blob/main/Topology.png](https://github.com/RZASHFUOH24-Research/Face-Presentation-Attack-Detection-Review/blob/main/Taxonomy.jpg)   
+  ![image](https://github.com/RZASHFUOH24-Research/Face-Presentation-Attack-Detection-Review/blob/main/Taxonomy.jpg) 
   
 ---
 
