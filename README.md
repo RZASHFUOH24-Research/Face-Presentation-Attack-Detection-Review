@@ -366,4 +366,14 @@ If you find our work useful in your research, please consider citing:
 
 
 ---
-<
+### Citation
+If you find our work useful in your research, please consider citing:
+
+    @article{sheikhfathollahi2025survey,
+      title={A survey of deep learning for face presentation attack detection},
+      author={Sheikhfathollahi, Mohammadreza and Parkinson, Simon and Hill, Richard and Khan, Saad},
+      journal={Neurocomputing},
+      pages={131136},
+      year={2025},
+      publisher={Elsevier}
+    }
