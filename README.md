@@ -103,7 +103,7 @@ If you find our work useful in your research, please consider citing:
 ---
 <a name="methods_RGB" />
 
-### 2️⃣ Deep FAS methods with commercial RGB camera
+### 2️⃣ Deep FAS methods with RGB camera
 
 
 
@@ -296,6 +296,7 @@ If you find our work useful in your research, please consider citing:
 | [SA-FAS](https://arxiv.org/abs/2303.13662)   | CVPR 2023 |  ResNet18 | Contrastive loss, Alignment loss   |  S|
 | [SPDA]([https://arxiv.org/abs/2303.13662](https://ieeexplore.ieee.org/document/10095730))   | ICASSP 2023 |  ResNet18 | BCE loss, Domain loss, Self-paced Cluster Mining loss, orthogonal loss   |  S|
 | [CRFAS]([https://arxiv.org/abs/2303.13662](https://ieeexplore.ieee.org/document/10095329))   | ICASSP 2023 |  ResNet18 | BCE loss, Domain loss,  asymmetric triplet loss, Counterfactual Feature Generation loss   |  S|
+| [AdG-MAE]([https://arxiv.org/abs/2303.13662](https://ieeexplore.ieee.org/document/10095329))   | TBIOM 2026 |  ViT | BCE loss, Gated Alpha, Domain loss, MSE Loss  |  S|
 
 <a name="zero-shot" />
 
